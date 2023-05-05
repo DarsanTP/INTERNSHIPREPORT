@@ -15,7 +15,7 @@ Tinkercad is a free, web-based 3D modeling software developed by Autodesk, desig
 Tinkercad also provides a wide range of tools and features, including measurement tools, alignment tools, and shape generators, which can be used to create more intricate designs. Additionally, the software allows users to import and export files in various formats, making it compatible with other 3D design software and 3D printers. 
 
 Overall, Tinkercad is a great option for anyone who is new to 3D modeling or wants to quickly create and print 3D objects without having to learn complex software.<br>
-![Tinker Cad](img/234.png)<br>
+![Tinker Cad](https://github.com/DarsanTP/INTERNSHIPREPORT/blob/main/TINKERCAD.p)<br>
 *[Front page of Tinker Cad](https://www.tinkercad.com/dashboard?collection=designs)*<br><br><br>
 **Simulation of various circuits**<br><br>
 Tinkercad is an online platform that allows users to design, create, and simulate various electronic circuits. It provides a wide range of components such as resistors, capacitors, diodes, transistors, LEDs, and sensors that can be used to create circuits for different applications.
