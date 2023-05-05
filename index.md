@@ -1,6 +1,7 @@
 # DAY 1 - 02-05-23
 **Inauguration**<br>
-![Inauguration Picture](img/123.jpeg)<br>
+![alt text](https://user-images.githubusercontent.com/132337992/235637380-9ad2cbca-d8fd-4b7f-9e32-49a2e14e0d31.png)
+<br>
 Our day started with a warmful speech given by the academic director of Jyothi engineering college.<br><br>
 **Morning session**<br>
 Our lecturer, Jinesh jose introduced us about Microprocessors and Microcontrollers. We got a brief idea on the topic after the class. Later<br>
