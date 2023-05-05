@@ -41,5 +41,5 @@ Simulating an Arduino on Tinkercad can be a useful tool for learning and experim
 *[Simulation of traffic signal using ardino on Tinker cad](https://www.example.com)*<br><br>
 # DAY 3 - 04-05-23
 More project simulations are done today,<br>
-**projects**:[Traffic light using button on ardino]](https://www.tinkercad.com/things/6FAEcFLt8zU-copy-of-traffic-light-with-button/editel?sharecode=eBHnNhqRaADS0cRv97TG3gxbzejDuZgXx0xhY1G07EY)<br>
+**projects**:[Traffic light using button on ardino](https://www.tinkercad.com/things/6FAEcFLt8zU-copy-of-traffic-light-with-button/editel?sharecode=eBHnNhqRaADS0cRv97TG3gxbzejDuZgXx0xhY1G07EY)<br>
              [Displaying "GPTC CHELAKKARA" on LCD](https://www.tinkercad.com/things/1HuE2fVAJFy)<br>
